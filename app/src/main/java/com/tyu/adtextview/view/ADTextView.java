@@ -46,7 +46,7 @@ public class ADTextView extends View {
     private RunMode mode=RunMode.UP;//广告滚动方向
 
     public enum RunMode{
-        UP,DONW;
+        UP,DOWN;
     }
 
     public ADTextView(Context context) {

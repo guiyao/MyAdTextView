@@ -29,7 +29,7 @@ public class MainActivity extends Activity {
             data.add(mdata);
         }
         ad_textview.setData(data);
-        ad_textview.setMode(ADTextView.RunMode.DONW);
+        ad_textview.setMode(ADTextView.RunMode.UP);
         ad_textview.setOnAdConetentClickListener(new OnAdConetentClickListener() {
             @Override
             public void OnAdConetentClickListener(int index, AdData data) {
