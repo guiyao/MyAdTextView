@@ -20,8 +20,8 @@ setMode(ADTextView.RunMode.UP);
         
     
 向上
-![image](https://github.com/guiyao/MyAdTextView/raw/master/down.gif)
+![image](https://github.com/guiyao/MyAdTextView/blob/master/img/down.gif)
 
 向下
-![image](https://github.com/guiyao/MyAdTextView/raw/master/up.gif)
+![image](https://github.com/guiyao/MyAdTextView/blob/master/img/up.gif)
       
